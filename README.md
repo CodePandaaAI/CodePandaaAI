@@ -1,44 +1,40 @@
-# 👋 Hey, I’m Romit Sharma (aka @CodePandaaAI)
+# 👋 Hey, I'm Romit Sharma (aka @CodePandaaAI)
 
-🎯 Aspiring Android Developer | 📱 Kotlin & Jetpack Compose Enthusiast  
-🧠 Learning DSA with Kotlin | 🚀 Future Software Engineer  
-
----
-
-## 👀 I’m interested in:
-- Android app development using Kotlin & Jetpack Compose  
-- UI/UX Design and Mobile-first thinking  
-- Exploring powerful coding patterns & clean architecture  
-- Real-world software engineering workflows & tools  
+🚀 **Android Developer** | 📱 **Kotlin & Jetpack Compose Enthusiast**  
+🧠 **DSA Learner** | 🎯 **Aspiring Tech Educator**  
 
 ---
 
-## 🌱 I’m currently learning:
-- Native Android Development (Kotlin + Jetpack Compose)  
-- Data Structures & Algorithms in Kotlin  
-- Git & GitHub (version control workflow)  
-- Building mini-projects for hands-on practice  
+## 🛠️ Tech Stack:
+- **Languages:** Kotlin
+- **Android:** Jetpack Compose, Material 3, MVVM Architecture  
+- **Backend & Data:** Room Database
+- **Architecture:** Hilt (Dependency Injection), Coroutines & Flow
+- **Tools:** Android Studio, Git/GitHub, Gradle
+- **Learning:** Data Structures & Algorithms, Clean Architecture
 
 ---
 
-## 📫 How to reach me:
-- 📧 Email: romitsharmakv@gmail.com  
-- 💼 LinkedIn: [https://www.linkedin.com/in/romit-sharma-18b521329/] 
+## 🎯 Currently Focused On:
+- **Advanced Android Development** with modern architecture patterns
+- **Problem-solving** through DSA practice in Kotlin
+- **UI/UX Excellence** with Compose animations and Material Design
+- **Building teaching content** for fellow developers
 
 ---
 
-## 😄 Pronouns:
-He/Him
+## 📫 Let's Connect:
+- 📧 [romitsharmakv@gmail.com](mailto:romitsharmakv@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/romit-sharma-18b521329/)
+- 🤝 Open to collaborations and learning opportunities
 
 ---
 
-## ⚡ Fun fact:
-I love writing raw manual logic in Kotlin to *fully understand* how things work before using built-in functions!  
-Also, I treat coding like solving real-life puzzles—**jugaadu but smartly!** 🧩🔥
+## ⚡ Philosophy:
+*"Learn by building, teach by sharing!"*  
+
+I believe in understanding concepts deeply before using shortcuts - whether it's manually implementing algorithms or diving into Android internals. 🧩✨
 
 ---
 
-<!---
-CodePandaaAI/CodePandaaAI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+*Building the future, one commit at a time* 🚀
