@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Romit Sharma (aka @CodePandaaAI)
 
 🚀 **Android Developer** | 📱 **Kotlin & Jetpack Compose Enthusiast**  
-🧠 **DSA Learner** | 🎯 **Aspiring Tech Educator**  
+🧠 **DSA Learner**
 
 ---
 
