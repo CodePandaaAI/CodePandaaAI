@@ -1,40 +1,70 @@
-# 👋 Hey, I'm Romit Sharma (aka @CodePandaaAI)
+# Hey, I'm Romit Sharma
 
-🚀 **Android Developer** | 📱 **Kotlin & Jetpack Compose Enthusiast**  
-🧠 **DSA Learner**
+I'm a 19-year-old Android developer from Amritsar, Punjab.
 
----
+I build Android apps with Kotlin, Jetpack Compose, Coroutines, Flow, Room, Firebase, and Kotlin Multiplatform.
 
-## 🛠️ Tech Stack:
-- **Languages:** Kotlin
-- **Android:** Jetpack Compose, Material 3, MVVM Architecture  
-- **Backend & Data:** Room Database
-- **Architecture:** Hilt (Dependency Injection), Coroutines & Flow
-- **Tools:** Android Studio, Git/GitHub, Gradle
-- **Learning:** Data Structures & Algorithms, Clean Architecture
+Right now I'm focused on building real projects deeply and understanding the engineering behind them.
 
----
+## Current Project
 
-## 🎯 Currently Focused On:
-- **Advanced Android Development** with modern architecture patterns
-- **Problem-solving** through DSA practice in Kotlin
-- **UI/UX Excellence** with Compose animations and Material Design
-- **Building teaching content** for fellow developers
+### Sync360
 
----
+Sync360 is a Kotlin Multiplatform local-network nearby-device sharing app.
 
-## 📫 Let's Connect:
-- 📧 [romitsharmakv@gmail.com](mailto:romitsharmakv@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/romit-sharma-18b521329/)
-- 🤝 Open to collaborations and learning opportunities
+Current Android milestone:
 
----
+- Android devices discover each other on the same WiFi
+- sender creates a text offer
+- receiver can accept or decline
+- accepted text is transferred locally
+- receiver can copy the received text
 
-## ⚡ Philosophy:
-*"Learn by building, teach by sharing!"*  
+This project is helping me learn:
 
-I believe in understanding concepts deeply before using shortcuts - whether it's manually implementing algorithms or diving into Android internals. 🧩✨
+- Android NSD / mDNS
+- Ktor client and server
+- local network request-response flow
+- Kotlin Multiplatform boundaries
+- Compose Multiplatform
+- MVVM / UDF screen state
+- Koin dependency injection
 
----
+File transfer, progress, storage, desktop, iOS, and security are future work.
 
-*Building the future, one commit at a time* 🚀
+## Other Projects
+
+### VoDrop
+
+Cross-platform voice-to-text app built with Kotlin Multiplatform, Firebase, and AI text polishing.
+
+### Habi-Trek
+
+Habit tracker built with Clean Architecture, Room, Compose, and AI summaries.
+
+## Tech I Work With
+
+- Kotlin
+- Jetpack Compose
+- Compose Multiplatform
+- Coroutines and Flow
+- Room
+- Firebase
+- Ktor
+- Koin / Hilt
+- Retrofit
+- Git and GitHub
+- Gradle
+
+## Currently Learning
+
+- Data Structures and Algorithms in Kotlin
+- Android internals
+- Local-first app architecture
+- Mobile networking
+- On-device AI
+
+## Contact
+
+Email: romitsharmakv@gmail.com  
+LinkedIn: https://www.linkedin.com/in/romit-sharma-18b521329
